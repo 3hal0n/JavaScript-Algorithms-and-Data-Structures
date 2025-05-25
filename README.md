@@ -6,23 +6,23 @@ This repository contains solutions to the final projects required to complete th
 
 ### ✅ Build a Palindrome Checker  
 A function that checks whether a given string is a palindrome, ignoring punctuation, case, and spacing.  
-🔗 [Live Demo](#) • 🧠 Concepts: string manipulation, regex, logic
+• 🧠 Concepts: string manipulation, regex, logic
 
 ### ✅ Build a Roman Numeral Converter  
 Converts integers into Roman numeral representation according to traditional rules.  
-🔗 [Live Demo](#) • 🧠 Concepts: math, string construction
+• 🧠 Concepts: math, string construction
 
 ### ✅ Build a Telephone Number Validator  
 Validates US phone numbers using regular expressions. It accounts for various formatting styles.  
-🔗 [Live Demo](#) • 🧠 Concepts: regex, string validation
+• 🧠 Concepts: regex, string validation
 
 ### ✅ Build a Cash Register  
 Simulates a cash register drawer using objects and arrays to calculate change owed.  
-🔗 [Live Demo](#) • 🧠 Concepts: object manipulation, conditional logic
+• 🧠 Concepts: object manipulation, conditional logic
 
 ### ✅ Build an RPG Creature Search App  
 A dynamic front-end app that fetches and displays creature data from an external RPG-themed API.  
-🔗 [Live Demo](#) • 🧠 Concepts: DOM manipulation, async fetch, UI rendering
+• 🧠 Concepts: DOM manipulation, async fetch, UI rendering
 
 ---
 
