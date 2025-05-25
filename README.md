@@ -1,5 +1,4 @@
 # JavaScript-Algorithms-and-Data-Structures
-JavaScript Algorithms and Data Structures Projects
 This repository contains solutions to the final projects required to complete the JavaScript Algorithms and Data Structures certification from freeCodeCamp.org. Each project demonstrates core JavaScript skills such as string manipulation, regular expressions, algorithmic problem solving, and DOM manipulation.
 
 Projects
